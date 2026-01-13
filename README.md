@@ -55,10 +55,4 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ---
 
-## 📊 Meus Status no GitHub
-
-[![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 > 💡 *“A melhor maneira de prever o futuro é criá-lo.” – Alan Kay*
