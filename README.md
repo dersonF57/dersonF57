@@ -1,4 +1,4 @@
-## Olá, eu sou o Derson 👋
+## Olá, eu sou o Anderson 👋
 
 Bem-vindo ao meu perfil GitHub!
 
@@ -12,8 +12,9 @@ Bem-vindo ao meu perfil GitHub!
 ### 🛠️ Habilidades
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Python
-- **Banco de dados:** MySQL, MongoDB
+- **Backend:** PHP, Node
+- **Banco de dados:** MySQL, Postgres
+- **Frameworks** Nest JS, Next JS e Laravel
 - **Outros:** Git, GitHub, APIs REST
 
 ### 📚 Projetos recentes
@@ -24,7 +25,7 @@ Bem-vindo ao meu perfil GitHub!
 ### 💬 Como falar comigo
 
 - Email: seuemail@exemplo.com
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
+- LinkedIn: [https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/anderson-vicente-100970191/)
 
 ### ⚡ Curiosidade
 
