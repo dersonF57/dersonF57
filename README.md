@@ -57,8 +57,8 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ## 📊 Meus Status no GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dersonF57&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dersonF57&layout=compact&theme=dracula)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
+
 
 ---
 
