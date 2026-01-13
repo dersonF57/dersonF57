@@ -17,15 +17,9 @@ Bem-vindo ao meu perfil GitHub!
 - **Frameworks** Nest JS, Next JS e Laravel
 - **Outros:** Git, GitHub, APIs REST
 
-### 📚 Projetos recentes
-
-- [Projeto Exemplo 1](https://github.com/dersonF57/projeto-exemplo-1): Pequena aplicação web para controle de tarefas
-- [Projeto Exemplo 2](https://github.com/dersonF57/projeto-exemplo-2): Automação de processos utilizando Python
-
 ### 💬 Como falar comigo
 
-- Email: seuemail@exemplo.com
-- LinkedIn: [https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/anderson-vicente-100970191/)
+- LinkedIn: (https://www.linkedin.com/in/anderson-vicente-100970191/)
 
 ### ⚡ Curiosidade
 
