@@ -24,6 +24,8 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -55,7 +57,7 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ## 📊 Meus Status no GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
+![DersonF57 GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dersonF57&layout=compact&theme=dracula)
 
 ---
