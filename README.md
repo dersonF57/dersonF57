@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil GitHub!
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** PHP, Node
 - **Banco de dados:** MySQL, Postgres
-[- **Frameworks** Nest JS, Next JS e Laravel](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
 - **Outros:** Git, GitHub, APIs REST
 
 ### 💬 Como falar comigo
