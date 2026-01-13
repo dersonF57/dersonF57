@@ -1,6 +1,5 @@
 # Olá, eu sou o Anderson!
 
-![Profile Views](https://komarev.com/ghpvc/?username=dersonF57&color=blue&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson%20Vicente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vicente-100970191/)
 
 Bem-vindo ao meu perfil GitHub!  
