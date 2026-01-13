@@ -57,7 +57,7 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ## 📊 Meus Status no GitHub
 
-![DersonF57 GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
+![DersonF57 GitHub stats](https://github-readme-stats.vercel.app/api?...)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dersonF57&layout=compact&theme=dracula)
 
 ---
