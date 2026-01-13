@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dersonF57&color=blue&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson%20Vicente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vicente-100970191/)
 
-Bem-vindo ao meu perfil GitHub! 🚀  
+Bem-vindo ao meu perfil GitHub!  
 Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ---
@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ##  Tecnologias & Ferramentas
 
-### 🎨 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
