@@ -57,8 +57,7 @@ Sou apaixonado por tecnologia, desenvolvimento e automação.
 
 ## 📊 Meus Status no GitHub
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
-
+[![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
