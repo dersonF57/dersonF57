@@ -29,7 +29,7 @@ Fã de café ☕ e tecnologia aberta!
 
 ### 📊 Meus Status no GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=dersonF57&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dersonF57&layout=compact&theme=dracula)
 
 > “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
