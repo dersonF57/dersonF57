@@ -1,16 +1,35 @@
-## Hi there 👋
+## Olá, eu sou o Derson 👋
 
-<!--
-**dersonF57/dersonF57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub!
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante apaixonado por tecnologia e inovação
+- 💻 Atualmente focado em desenvolvimento web e automação
+- 🌱 Aprendendo constantemente sobre novas tecnologias e ferramentas
+- 🚀 Acredito que a colaboração e o compartilhamento de conhecimento são essenciais para evoluirmos juntos
+
+### 🛠️ Habilidades
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Python
+- **Banco de dados:** MySQL, MongoDB
+- **Outros:** Git, GitHub, APIs REST
+
+### 📚 Projetos recentes
+
+- [Projeto Exemplo 1](https://github.com/dersonF57/projeto-exemplo-1): Pequena aplicação web para controle de tarefas
+- [Projeto Exemplo 2](https://github.com/dersonF57/projeto-exemplo-2): Automação de processos utilizando Python
+
+### 💬 Como falar comigo
+
+- Email: seuemail@exemplo.com
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
+
+### ⚡ Curiosidade
+
+Fã de café ☕ e tecnologia aberta!
+
+---
+
+> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
